@@ -5,6 +5,7 @@ Repositorio del semestre 2023-2 del curso Arquitectura de Computadores del DCC-U
 En toda _issue_ que escriban, por favor incluir en el título:
 * **Tipo de consulta:** Incluir como prefijo: "Contenido" (para dudas de materia); "Proyecto" (para dudas generales del proyecto e instalación y uso de Vivado); "Etapa 1" (para dudas de la Etapa 1 del proyecto); "Etapa 2" (para dudas de la Etapa 2 del proyecto); o "Etapa 3" (para dudas de la Etapa 3 del proyecto). Cualquier otro tipo de duda de asumirá como administrativa y no es necesario que pongan un prefijo que indique lo que están consultando.
 * **Resumen de la consulta:** Un resumen de lo que están preguntando. Esto ayudará a que otros/as estudiantes puedan revisar rápidamente si se han resuelto dudas que ya tenían o no.
+En una de las _issues_ pineadas pueden encontrar un ejemplo de uso.
 
 ## Equipo
 
