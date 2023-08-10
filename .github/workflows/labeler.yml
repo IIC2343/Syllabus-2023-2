@@ -1,0 +1,54 @@
+name: Labeler
+on:
+  issues:
+    types: [opened]
+
+
+jobs:
+  label:
+
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+    - name: Install dependencies
+      run: npm install @actions/github
+    - name: Assign label based on issue title
+      uses: actions/github-script@v6
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        script: |
+          const gh = require('@actions/github');
+          const token = process.env.GITHUB_TOKEN;
+          const octokit = gh.getOctokit(token);
+          const title = gh.context.payload.issue.title.toLowerCase().replace(/\s/g, '');
+          
+          const getLabels = (issueTitle) => {
+            switch (true) {
+              case issueTitle.includes('contenido'):
+                return ['Contenido'];
+              case issueTitle.includes('etapa1') || issueTitle.includes('entrega1'):
+                return ['Proyecto', 'Etapa1'];
+              case issueTitle.includes('etapa2') || issueTitle.includes('entrega2'):
+                return ['Proyecto', 'Etapa2'];
+              case issueTitle.includes('etapa3') || issueTitle.includes('entrega3'):
+                return ['Proyecto', 'Etapa3'];
+              case issueTitle.includes('proyecto'):
+                return ['Proyecto'];
+              default:
+                return ['Administrativa'];
+            }
+          };
+          
+          const labels = getLabels(title);
+
+          const params = {
+            owner: gh.context.repo.owner,
+            repo: gh.context.repo.repo,
+            issue_number: gh.context.payload.issue.number,
+            labels
+          };
+
+          await github.rest.issues.addLabels(params);
+          
