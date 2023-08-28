@@ -28,13 +28,15 @@ jobs:
             switch (true) {
               case issueTitle.includes('contenido'):
                 return ['Contenido'];
+              case issueTitle.includes('ayudantía') || issueTitle.includes('ayudantia'):
+                return ['Ayudantía', 'Contenido'];
               case issueTitle.includes('etapa1') || issueTitle.includes('entrega1'):
                 return ['Proyecto', 'Etapa1'];
               case issueTitle.includes('etapa2') || issueTitle.includes('entrega2'):
                 return ['Proyecto', 'Etapa2'];
               case issueTitle.includes('etapa3') || issueTitle.includes('entrega3'):
                 return ['Proyecto', 'Etapa3'];
-              case issueTitle.includes('proyecto'):
+              case issueTitle.includes('proyecto') || issueTitle.includes('vivado'):
                 return ['Proyecto'];
               default:
                 return ['Administrativa'];
