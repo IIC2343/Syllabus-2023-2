@@ -25,27 +25,29 @@ En una de las _issues_ pineadas pueden encontrar un ejemplo de uso.
 | Josefa Parra               |        Bienestar         | josefa.parra@uc.cl      |
 | Alberto Agostini           |    Coordinador cátedra   | alberto.agostini@uc.cl  |
 | Diego Rodríguez            |  Coordinador laboratorio | darodriguez6@uc.cl      |
+| Ignacio Pastén             |  Coordinador laboratorio | pasten.ig@uc.cl         |
 | Joaquín Viñuela            |         Cátedra          | joaquin.vinuela@uc.cl   |
-| Benjamín Vicente           |         Cátedra          | benjavicente@uc.cl	    |
+| Benjamín Vicente           |         Cátedra          | benjavicente@uc.cl	  |
 | Dafne Arriagada            |         Cátedra          | dafne.arriagada@uc.cl   |
-| Bryan Acevedo              |       Laboratorio        | bkacevedo@uc.cl	        |
-| Joaquín Bugmann            |       Laboratorio        | jabugmann@uc.cl	        |
+| Andrés Castillo            |         Cátedra          | acastio@uc.cl           |
+| Bryan Acevedo              |       Laboratorio        | bkacevedo@uc.cl	  |
+| Joaquín Bugmann            |       Laboratorio        | jabugmann@uc.cl	  |
 | Beatriz Errázuriz          |       Laboratorio        | beatriz.errazuriz@uc.cl |
-| Margarita González         |       Laboratorio        | mgonzalez18@uc.cl	      |
-| Nicole Larenas             |       Laboratorio        | nlarenasb@uc.cl	        |
-| Fernanda Pérez             |       Laboratorio        | ferperezh@uc.cl	        |
-| Pedro Ríos                 |       Laboratorio        | pedroriosg@uc.cl	      |
-| Vicente Valdés             |       Laboratorio        | vicente.valds@uc.cl	    |
+| Margarita González         |       Laboratorio        | mgonzalez18@uc.cl       |
+| Nicole Larenas             |       Laboratorio        | nlarenasb@uc.cl	  |
+| Fernanda Pérez             |       Laboratorio        | ferperezh@uc.cl         |
+| Pedro Ríos                 |       Laboratorio        | pedroriosg@uc.cl	  |
+| Vicente Valdés             |       Laboratorio        | vicente.valds@uc.cl	  |
 | Alonso Zamorano            |       Laboratorio        | alonso.zamorano@uc.cl   |
-| Pía Cabrera                |       Corrección         | mara.cabrera@uc.cl	    |
+| Pía Cabrera                |       Corrección         | mara.cabrera@uc.cl	  |
 | Gersom Escalante           |       Corrección         | gjescalante@uc.cl       |
 | Rosario Ferrer             |       Corrección         | rosario.ferrer@uc.cl	  |
 | Melany Lillo               |       Corrección         | melany.lillo@uc.cl      |
-| Borja Márquez De La Plata  |       Corrección         | bmarquezdelaplata@uc.cl	|
-| Agustín Munita             |       Corrección         | amunitac@uc.cl	        |
+| Borja Márquez De La Plata  |       Corrección         | bmarquezdelaplata@uc.cl |
+| Agustín Munita             |       Corrección         | amunitac@uc.cl	  |
 | Valeria Salas              |       Corrección         | visalas@uc.cl	          |
-| Andrés Salinas             |       Corrección         | awsalinas@uc.cl	        |
-	
+| Andrés Salinas             |       Corrección         | awsalinas@uc.cl	  |
+
 ¡Estamos para ayudarles! 😄
 
 ![equipowapo](https://github.com/IIC2343/Syllabus-2023-2/assets/5559611/6e6e11a6-4cf8-4a77-b137-45b0e28a4036)
