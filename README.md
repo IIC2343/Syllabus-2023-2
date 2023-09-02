@@ -7,6 +7,13 @@ En toda _issue_ que escriban, por favor incluir en el título:
 * **Resumen de la consulta:** Un resumen de lo que están preguntando. Esto ayudará a que otros/as estudiantes puedan revisar rápidamente si se han resuelto dudas que ya tenían o no.
 En una de las _issues_ pineadas pueden encontrar un ejemplo de uso.
 
+## Clases de repaso
+
+Clases de repaso realizadas por el profesor Germán Contreras vía Zoom para las secciones 1 y 3.
+
+* [Repaso 1](https://drive.google.com/file/d/1zlpoYfkjIeQ-qL9CvMwlMGORpdQp7nfJ/view?usp=sharing): Representaciones numéricas 1; operaciones aritméticas y lógicas; almacenamiento de datos
+
+
 ## Equipo
 
 ### Docentes
