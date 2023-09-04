@@ -46,11 +46,11 @@ Clases de repaso realizadas por el profesor Germán Contreras vía Zoom para las
 | Pedro Ríos                 |       Laboratorio        | pedroriosg@uc.cl	  |
 | Vicente Valdés             |       Laboratorio        | vicente.valds@uc.cl	  |
 | Alonso Zamorano            |       Laboratorio        | alonso.zamorano@uc.cl   |
+| Borja Márquez De La Plata  |       Laboratorio         | bmarquezdelaplata@uc.cl |
 | Pía Cabrera                |       Corrección         | mara.cabrera@uc.cl	  |
 | Gersom Escalante           |       Corrección         | gjescalante@uc.cl       |
 | Rosario Ferrer             |       Corrección         | rosario.ferrer@uc.cl	  |
 | Melany Lillo               |       Corrección         | melany.lillo@uc.cl      |
-| Borja Márquez De La Plata  |       Corrección         | bmarquezdelaplata@uc.cl |
 | Agustín Munita             |       Corrección         | amunitac@uc.cl	  |
 | Valeria Salas              |       Corrección         | visalas@uc.cl	          |
 | Andrés Salinas             |       Corrección         | awsalinas@uc.cl	  |
