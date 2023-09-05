@@ -31,7 +31,7 @@ Clases de repaso realizadas por el profesor Germán Contreras vía Zoom para las
 | Felipe Valenzuela          |    Coordinador general   | frvalenzuela@uc.cl      |
 | Josefa Parra               |        Bienestar         | josefa.parra@uc.cl      |
 | Alberto Agostini           |    Coordinador cátedra   | alberto.agostini@uc.cl  |
-| Diego Rodríguez            |  Coordinador laboratorio | darodriguez6@uc.cl      |
+| Diego R. Cid               |  Coordinador laboratorio | darodriguez6@uc.cl      |
 | Ignacio Pastén             |  Coordinador laboratorio | pasten.ig@uc.cl         |
 | Joaquín Viñuela            |         Cátedra          | joaquin.vinuela@uc.cl   |
 | Benjamín Vicente           |         Cátedra          | benjavicente@uc.cl	  |
