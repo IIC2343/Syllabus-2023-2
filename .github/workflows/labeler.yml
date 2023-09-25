@@ -26,8 +26,6 @@ jobs:
           
           const getLabels = (issueTitle) => {
             switch (true) {
-              case issueTitle.includes('contenido'):
-                return ['Contenido'];
               case issueTitle.includes('ayudantía') || issueTitle.includes('ayudantia'):
                 return ['Ayudantía', 'Contenido'];
               case issueTitle.includes('etapa1') || issueTitle.includes('entrega1'):
@@ -38,6 +36,8 @@ jobs:
                 return ['Proyecto', 'Etapa3'];
               case issueTitle.includes('proyecto') || issueTitle.includes('vivado'):
                 return ['Proyecto'];
+              case issueTitle.includes('contenido'):
+                return ['Contenido'];
               default:
                 return ['Administrativa'];
             }
