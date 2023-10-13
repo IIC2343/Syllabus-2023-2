@@ -12,8 +12,8 @@ En una de las _issues_ pineadas pueden encontrar un ejemplo de uso.
 Clases de repaso realizadas por el profesor Germán Contreras vía Zoom para las secciones 1 y 3.
 
 * [Repaso 1](https://drive.google.com/file/d/1zlpoYfkjIeQ-qL9CvMwlMGORpdQp7nfJ/view?usp=sharing): Representaciones numéricas 1; operaciones aritméticas y lógicas; almacenamiento de datos
-* [Repaso 2]([https://drive.google.com/file/d/1zlpoYfkjIeQ-qL9CvMwlMGORpdQp7nfJ/view?usp=sharing](https://drive.google.com/file/d/1WZHMZtZ7fuTc0XR910aZG8mcXfWV4y0z/view?usp=drive_link)): Computador básico hasta saltos, con foco en Assembly.
-* [Repaso 3](https://drive.google.com/file/d/1zlpoYfkjIeQ-qL9CvMwlMGORpdQp7nfJ/view?usp=sharing): Computador básico con subrutinas; repaso _express_ de floats en IEEE754.
+* [Repaso 2](https://drive.google.com/file/d/1WZHMZtZ7fuTc0XR910aZG8mcXfWV4y0z/view?usp=drive_link): Computador básico hasta saltos, con foco en Assembly.
+* [Repaso 3](https://drive.google.com/file/d/18bx2znJqrXX-OEv88Qh1xw4ejSjjORYe/view?usp=drive_link): Computador básico con subrutinas; repaso _express_ de floats en IEEE754.
 
 
 ## Equipo
