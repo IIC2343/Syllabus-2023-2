@@ -14,6 +14,7 @@ Clases de repaso realizadas por el profesor Germán Contreras vía Zoom para las
 * [Repaso 1](https://drive.google.com/file/d/1zlpoYfkjIeQ-qL9CvMwlMGORpdQp7nfJ/view?usp=sharing): Representaciones numéricas 1; operaciones aritméticas y lógicas; almacenamiento de datos
 * [Repaso 2](https://drive.google.com/file/d/1WZHMZtZ7fuTc0XR910aZG8mcXfWV4y0z/view?usp=drive_link): Computador básico hasta saltos, con foco en Assembly.
 * [Repaso 3](https://drive.google.com/file/d/18bx2znJqrXX-OEv88Qh1xw4ejSjjORYe/view?usp=drive_link): Computador básico con subrutinas; repaso _express_ de floats en IEEE754.
+* [Repaso 4](https://drive.google.com/file/d/10xSmAduT0I0h-OBgey0HJooOk77E3GOF/view?usp=sharing): Assembly RISC-V, convención de llamada.
 
 
 ## Equipo
