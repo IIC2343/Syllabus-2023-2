@@ -16,6 +16,7 @@ Clases de repaso realizadas por el profesor Germán Contreras vía Zoom para las
 * [Repaso 3](https://drive.google.com/file/d/18bx2znJqrXX-OEv88Qh1xw4ejSjjORYe/view?usp=drive_link): Computador básico con subrutinas; repaso _express_ de floats en IEEE754.
 * [Repaso 4](https://drive.google.com/file/d/10xSmAduT0I0h-OBgey0HJooOk77E3GOF/view?usp=sharing): Assembly RISC-V, convención de llamada.
 * [Repaso 5](https://drive.google.com/file/d/1Am7ft6LA2JBcrJaBtmQ24M7GbmyR5SrS/view?usp=sharing): Dispositivos I/O, memoria caché.
+* [Repaso 6](https://drive.google.com/file/d/1nR3XxidbZi9a8CbsaqbUCbp1x4ORXpaD/view?usp=sharing): Memoria virtual, paralelismo a nivel de instrucción.
 
 
 ## Equipo
